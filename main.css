@@ -1,0 +1,15 @@
+.Title  {
+  font-weight: bold;
+  font-family:sans-serif;
+  text-align: center;
+  background: #444;
+  color: white;
+}
+
+.main {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
