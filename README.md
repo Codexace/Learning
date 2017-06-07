@@ -20,6 +20,6 @@ Open your favorite browser. Press `ctrl + o` navigate to the index.html file. Cl
 
 [https://discussions.udacity.com/t/frogger-collision-help/246021](https://discussions.udacity.com/t/frogger-collision-help/246021)
 
-[https://stackedit.io](https://stackedit.io)
+[http://tmpvar.com/markdown.html](http://tmpvar.com/markdown.html)
 
 [https://unicode-table.com/en/](https://unicode-table.com/en/)
